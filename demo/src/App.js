@@ -63,7 +63,7 @@ class App extends Component {
 
         <main>
           <div style={{padding: '12px', textAlign: 'center'}}>
-            <div>SidebarJS is visible?</div>
+            <div>Is visible?</div>
             <div style={{marginTop: '6px'}}>{this.state.isVisibleSidebar.toString()}</div>
           </div>
           <Switch>

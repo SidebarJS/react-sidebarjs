@@ -1,6 +1,6 @@
 /*
  * ReactSidebarJS
- * Version 1.0.0
+ * Version 1.0.1
  * https://github.com/SidebarJS/react-sidebarjs#readme
  */
 
