@@ -5,6 +5,11 @@ Create mobile sidebar/sidenav experiance in react.
 npm install react-sidebarjs --save
 ```
 
+## Demo
+*Open the demo on your device and try the touch gestures!*
+
+* [RawGit](https://raw.githubusercontent.com/SidebarJS/react-sidebarjs/master/demo/build/index.html)
+
 ## Import
 ```js
 import {SidebarJS, sidebarService} from 'react-sidebarjs';
