@@ -26,8 +26,8 @@
     "react"
   ],
   "dependencies": {
+    "prop-types": "^15.6.0",
     "react": "^16.2.0",
-    "react-proptypes": "^1.0.0",
     "sidebarjs": "^5.0.0"
   },
   "devDependencies": {

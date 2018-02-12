@@ -1,5 +1,5 @@
 import React, {Component} from 'react';
-import PropTypes from 'react-proptypes';
+import PropTypes from 'prop-types';
 import sidebarService from './SidebarService';
 
 class SidebarJS extends Component {
