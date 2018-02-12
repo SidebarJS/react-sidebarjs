@@ -32,3 +32,15 @@ import {NavLink} from 'react-router-dom';
   </nav>
 </SidebarJS>
 ```
+
+## API
+
+```js
+<SidebarJS
+  sidebarjsName={/* string */}
+  sidebarjsConfig={/* [SidebarConfig](https://github.com/SidebarJS/sidebarjs#options) */}
+  onOpen={() => void}
+  onClose={() => void}
+  onChangeVisibility={(changes: {isVisible: boolean}) => void}>
+</SidebarJS>
+```
